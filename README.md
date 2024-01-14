@@ -1,0 +1,1 @@
+# Hamis kliens lekérésé gyakorlat
